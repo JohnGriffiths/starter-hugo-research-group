@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://johngriffiths.github.io/starter-hugo-research-group/sitemap.xml
